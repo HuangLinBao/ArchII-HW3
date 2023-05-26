@@ -1,0 +1,69 @@
+=================Interchanged=================
+==================size 512==============================
+Conventional Time:0.566365
+Interchanged Time:0.441379
+verification:1
+
+improvement:1.283172
+==================size 1024==============================
+Conventional Time:5.859431
+Interchanged Time:3.496998
+verification:1
+
+improvement:1.675560
+==================size 2048==============================
+Conventional Time:57.324988
+Interchanged Time:27.388802
+verification:1
+
+improvement:2.093008
+=================Blocked=================
+==================size 512==============================
+Conventional Time:5.966988
+Blocked Optimization, size 16 Time:4.009286
+verification:1
+
+improvement:1.488292
+Blocked Optimization, size 32 Time:4.395856
+verification:1
+
+improvement:1.357412
+==================size 1024==============================
+Conventional Time:5.781582
+Blocked Optimization, size 16 Time:3.940287
+verification:1
+
+improvement:1.467300
+Blocked Optimization, size 32 Time:4.344669
+verification:1
+
+improvement:1.330730
+Blocked Optimization, size 64 Time:3.900649
+verification:1
+
+improvement:1.482210
+=================Blocked Interchange=================
+==================size 512==============================
+Conventional Time:0.556756
+Blocked Interchange Optimization, size 16 Time:0.450598
+verification:1
+
+improvement:1.235594
+Blocked Interchange Optimization, size 32 Time:0.523895
+verification:1
+
+improvement:1.062725
+==================size 1024==============================
+Conventional Time:5.783555
+Blocked Interchange Optimization, size 16 Time:3.618765
+verification:1
+
+improvement:1.598213
+Blocked Interchange Optimization, size 32 Time:3.508823
+verification:1
+
+improvement:1.648289
+Blocked Interchange Optimization, size 64 Time:3.967878
+verification:1
+
+improvement:1.457594
